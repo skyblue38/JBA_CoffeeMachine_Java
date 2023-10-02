@@ -1,5 +1,5 @@
 # JBA_CoffeeMachine_Java
-A project from the Java Core curriculum by JetBrains Academy 
+A project from the [Java Core](https://hyperskill.org/projects/33?track=15) curriculum by JetBrains Academy 
 ## Java Core
 Rating: 4.7. 32 projects. 163 hours.
 
