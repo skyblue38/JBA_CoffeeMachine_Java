@@ -5,7 +5,7 @@ A project from the Java Core curriculum by JetBrains Academy
 |:------|:------------|:-----------|
 | START | starting up | READY |
 | READY | menu choice | BUY, FILL1, TAKE, LEVELS, EXIT |
-| BUY   | menu choice | BREW |
+| BUY   | menu choice | BREW 1=espresso 2=latte 3=cappuccino |
 | BREW  | deliver coffee | READY |
 | FILL1 | Water refill | FILL2 |
 | FILL2 | Milk refill  | FILL3 |
